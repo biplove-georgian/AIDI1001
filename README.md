@@ -36,8 +36,8 @@ flask-webhook/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/AIDI1002.git
-   cd AIDI1002
+   git clone https://github.com/<your-username>/AIDI1001.git
+   cd AIDI1001
    ```
 
 2. Create and activate a virtual environment:
